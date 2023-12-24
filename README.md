@@ -31,6 +31,6 @@ Choose this option to exit the game.
 
 
 ## Author
-[Naufal Ghifari Hidayat - 2702314460].
-[Steven Jeremiah - 2702259191].
-[Sultan Dandy Ferdian - 2702321365].
+[Naufal Ghifari Hidayat - 2702314460].<br>
+[Steven Jeremiah - 2702259191].<br>
+[Sultan Dandy Ferdian - 2702321365].<br>

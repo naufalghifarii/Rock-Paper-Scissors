@@ -29,11 +29,8 @@ Select this option to play a Player vs Player (PvP) game. Enter the names of bot
 
 Choose this option to exit the game.
 
-## Screenshots
-
-Include screenshots of the game interface and examples of gameplay.
 
 ## Author
-[Naufal Ghifari Hidayat - 2702314460]
-[Steven Jeremiah - 2702259191]
-[Sultan Dandy Ferdian - 2702321365]
+[Naufal Ghifari Hidayat - 2702314460].
+[Steven Jeremiah - 2702259191].
+[Sultan Dandy Ferdian - 2702321365].
